@@ -1,1 +1,0 @@
-// JavaScript principal para animações
